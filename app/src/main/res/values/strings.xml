@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">MediaStore</string>
+
+    <string name="template_duration_progress" translatable="false">%02d:%02d/%02d:%02d</string>
+    <string name="template_duration" translatable="false">%02d:%02d</string>
+
+    <string name="action_filter">Filter</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_select_folder">Folders</string>
+    <string name="by_title">By Title</string>
+    <string name="by_author">By Author</string>
+    <string name="by_album">By Album</string>
+    <string name="by_duration">By Duration</string>
+    <string name="template_title">Title: %s</string>
+    <string name="template_Artist">Artist: %s</string>
+    <string name="template_Album">Album: %s</string>
+    <string name="permission_request_title">Permissions request</string>
+    <string name="permission_read_external_rationale">Please allow the app to read the external storage in order to work properly</string>
+    <string name="option_all_folders">All folders</string>
+
+</resources>
